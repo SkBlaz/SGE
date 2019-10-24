@@ -1,0 +1,8 @@
+umap-learn
+numpy
+numba
+matplotlib
+seaborn
+scikit-learn
+tqdm
+networkx
