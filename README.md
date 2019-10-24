@@ -3,7 +3,7 @@
 This framework offers a symbolic alternative to black-box embedding of nodes.
 It is competitive on large graphs, especially when we are interested in a certain subgraph.
 
-![Keyword graph](example_images/umap_proj.png)
+![Keyword graph](umap_proj.png)
 
 If you use the code from this repo, please cite:
 
