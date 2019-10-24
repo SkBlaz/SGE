@@ -1,4 +1,4 @@
-# Symbolic node embedding
+# Symbolic Graph Embedding
 
 This framework offers a symbolic alternative to black-box embedding of nodes.
 It is competitive on large graphs, especially when we are interested in a certain subgraph.
