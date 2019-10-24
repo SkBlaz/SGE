@@ -1,7 +1,6 @@
 
 """
-MetaProp: scalable symbolic learning from heterogeneous information networks via propositionalization
-Skrlj, 2019
+SGE, Skrlj, Kralj, Lavrac; 2019
 """
 from numba import jit,prange
 import operator
